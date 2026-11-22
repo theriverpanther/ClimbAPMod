@@ -1,0 +1,3 @@
+D:/Game Files/ArchipelagoRepo/2XKO-Climb-AP-Mod/out/build/x64-Debug/CMakeFiles/2XKO-Climb-AP-Mod.dir
+D:/Game Files/ArchipelagoRepo/2XKO-Climb-AP-Mod/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Game Files/ArchipelagoRepo/2XKO-Climb-AP-Mod/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
