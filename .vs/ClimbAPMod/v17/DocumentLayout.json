@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game Files\\ArchipelagoRepo\\2XKO-Climb-AP-Mod\\ClimbAPMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Files\\ArchipelagoRepo\\2XKO-Climb-AP-Mod\\ClimbAPMod\\src\\ModConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ModConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Files\\ArchipelagoRepo\\2XKO-Climb-AP-Mod\\ClimbAPMod\\include\\ModConsole.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\ModConsole.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Files\\ArchipelagoRepo\\2XKO-Climb-AP-Mod\\ClimbAPMod\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|CMake Overview Pages||{B1CAA5B0-FEB1-4350-8AB9-F895876842F2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModConsole.cpp",
+              "DocumentMoniker": "D:\\Game Files\\ArchipelagoRepo\\2XKO-Climb-AP-Mod\\ClimbAPMod\\src\\ModConsole.cpp",
+              "RelativeDocumentMoniker": "src\\ModConsole.cpp",
+              "ToolTip": "D:\\Game Files\\ArchipelagoRepo\\2XKO-Climb-AP-Mod\\ClimbAPMod\\src\\ModConsole.cpp",
+              "RelativeToolTip": "src\\ModConsole.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-22T22:14:45.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModConsole.hpp",
+              "DocumentMoniker": "D:\\Game Files\\ArchipelagoRepo\\2XKO-Climb-AP-Mod\\ClimbAPMod\\include\\ModConsole.hpp",
+              "RelativeDocumentMoniker": "include\\ModConsole.hpp",
+              "ToolTip": "D:\\Game Files\\ArchipelagoRepo\\2XKO-Climb-AP-Mod\\ClimbAPMod\\include\\ModConsole.hpp",
+              "RelativeToolTip": "include\\ModConsole.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-22T22:10:26.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "D:\\Game Files\\ArchipelagoRepo\\2XKO-Climb-AP-Mod\\ClimbAPMod\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "D:\\Game Files\\ArchipelagoRepo\\2XKO-Climb-AP-Mod\\ClimbAPMod\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-22T20:47:36.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMake Overview Pages",
+              "DocumentMoniker": "CMake Overview Pages",
+              "ToolTip": "CMake Overview Pages",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-22T20:47:33.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
